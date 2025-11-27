@@ -8,4 +8,6 @@ function printCount (text , wordsToSearch){
 
 printCount('Hello my is martin and is 15 yrs old' , 'is');
 
+console.log('martin');
+
 
