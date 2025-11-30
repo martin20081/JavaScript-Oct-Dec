@@ -21,8 +21,10 @@ function calc (num1 , num2 , operator){
         case '/':
             console.log(divide(num1 , num2));
             break;    
+
+            console.log('Martin');
                     
     }
 }
 
-calc(3  , 10  , '-');
+calc(3  , 10  , '+');
